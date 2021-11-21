@@ -1,0 +1,11 @@
+{
+  "name": "crud-node",
+  "version": "1.0.0",
+  "description": "Introducción a Nodejs",
+  "main": "servidor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Desarrollo WEB Juan",
+  "license": "ISC"
+}
